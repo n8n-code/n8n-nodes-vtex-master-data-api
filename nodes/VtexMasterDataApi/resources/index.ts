@@ -1,0 +1,9 @@
+export { documentsDescription } from './documents';
+export { searchDescription } from './search';
+export { scrollDescription } from './scroll';
+export { schemasDescription } from './schemas';
+export { indicesDescription } from './indices';
+export { clustersDescription } from './clusters';
+export { versionsDescription } from './versions';
+export { customerProfilesDescription } from './customer-profiles';
+export { addressesDescription } from './addresses';
