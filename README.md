@@ -55,15 +55,15 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Documents | PATCH Create partial document, POST Create new document, DELETE Delete document, GET Get document, PATCH Update partial document, PUT Update entire document |
-| Search | GET Search documents |
-| Scroll | GET Scroll documents |
-| Schemas | GET Get schemas, DELETE Delete schema by name, GET Get schema by name, PUT Save schema by name |
-| Indices | GET Get indices, PUT Put indices, DELETE Delete index by name, GET Get index by name |
-| Clusters | POST Validate document by clusters |
-| Versions | GET List versions, GET Get version, PUT Put version |
-| Customer Profiles | POST Create new customer profile, DELETE Delete customer profile, PATCH Update customer profile |
-| Addresses | POST Create new customer address, DELETE Delete customer address, PATCH Update customer address |
+| Documents | Patch create partial document, Post create new document, Delete document, Get document, Patch update partial document, Put update entire document |
+| Search | Get search documents |
+| Scroll | Get scroll documents |
+| Schemas | Get schemas, Delete schema by name, Get schema by name, Put save schema by name |
+| Indices | Get indices, Put indices, Delete index by name, Get index by name |
+| Clusters | Post validate document by clusters |
+| Versions | Get list versions, Get version, Put version |
+| Customer Profiles | Post create new customer profile, Delete customer profile, Patch update customer profile |
+| Addresses | Post create new customer address, Delete customer address, Patch update customer address |
 
 ---
 

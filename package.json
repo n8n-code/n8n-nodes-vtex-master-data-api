@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-vtex-master-data-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ATTENTION: This version isn't compliant with data entities of old version (e.g. CL and AD). It's possible to use this configuration only to new data entities",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-vtex-master-data-api",
